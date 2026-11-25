@@ -1,0 +1,1 @@
+EXEC clean.usp_load_silver;
